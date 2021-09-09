@@ -7,6 +7,8 @@
 .attribution {
       font-size: 11px;
       text-align: center;
+      color: white;
+      margin-top: 20px;
 }
 
 .attribution a {
@@ -110,9 +112,8 @@ body {
 @media screen and (max-width: 1200px) {
     .container {
         max-width: 330px;
-        padding-right: 25px;
-        padding-left: 25px;
-        margin: 0 auto;
+        padding: 25px;
+        margin: auto;
     }
     .card {
         flex-direction: column-reverse;
@@ -145,6 +146,6 @@ body {
         font-size: 10px;
     }
     .card__right {
-    width: 100%;
+        width: 100%;
     }
 }
