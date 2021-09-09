@@ -110,7 +110,7 @@ body {
 @media screen and (max-width: 1200px) {
     .container {
         max-width: 330px;
-        padding: 25px 25px 0 25px;
+        padding: 25px;
         margin: 0 auto;
     }
     .card {
